@@ -10,7 +10,7 @@ I enjoy building backend services, working with Linux-based environments, improv
 - Interested in Go, PostgreSQL, Docker, Kubernetes, and cloud infrastructure
 - I like building clean APIs and practical developer tools
 - Currently improving my skills in system design, DevOps and production-ready backend development
-- I like to use Neovim, tmux, Git and anything related to the terminal
+- I like to use Neovim, tmux and anything related to the terminal
 
 ## Technologies I've used
 
