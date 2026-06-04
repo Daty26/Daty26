@@ -41,6 +41,14 @@ I'm currently focusing on:
 - CI/CD with GitLab CI/CD 
 - Clean project structure and production-ready APIs
 
+## Interests
+
+* Linux and Unix-like systems
+* Terminals and terminal-based tools
+* Backend development
+* Cybersecurity
+* Cloud technologies
+
 ## Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-contact-blue?style=for-the-badge&logo=telegram)](https://t.me/Daty26)
